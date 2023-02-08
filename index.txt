@@ -2,3 +2,7 @@ A. Bab Pendahuluan
 
 B. Bab Utama
   - lorem Ipusmm sumarry
+  
+C. Bab Penutup
+  - lroem ipsum
+
